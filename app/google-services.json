@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747711225917",
+    "project_id": "delivery-app-lime",
+    "storage_bucket": "delivery-app-lime.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747711225917:android:b44dd1ac0b9348ff83ca54",
+        "android_client_info": {
+          "package_name": "com.example.deliveryfood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxgjIaPkbhTuwNFyZLRTVd80k6iR1WpBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
